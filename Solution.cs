@@ -26,6 +26,8 @@ namespace Parenteses
                         {
                             if (num[i + 1] == num[i] + 1)
                                 val = true;
+                            else if (num[i + 1] == num[-i - 1 + tam / 2] + 1)
+                                val = true;
                             else
                             {
                                 val = false;
@@ -44,6 +46,8 @@ namespace Parenteses
                             if (num[i] == num[i - 1] + 1)
                                 val = true;
                             else if (num[i] == num[tam - i - 1] + 1)
+                                val = true;
+                            else if (num[i] == num[i + 1 - tam / 2 ] + 1)
                                 val = true;
                             else
                             {
@@ -67,7 +71,7 @@ namespace Parenteses
             int tam = s.Length;
             char c;
             bool valid = false;
-            if (tam <= 104) // Restricted by client
+            if (tam <= 104 && tam >= 1) // Restricted by client
             {
                 valid = true;
                 for (int i = 0; i < tam; i++) // Transfers each character to the respective number

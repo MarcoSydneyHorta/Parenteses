@@ -10,3 +10,15 @@ C:\Users\Marco\source\repos\Parenteses\bin\Debug\netcoreapp2.1\Parenteses.pdb
 C:\Users\Marco\source\repos\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.dll
 C:\Users\Marco\source\repos\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.pdb
 C:\Users\Marco\source\repos\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.genruntimeconfig.cache
+D:\Marco\Cursos\C#\Parenteses\bin\Debug\netcoreapp2.1\Parenteses.deps.json
+D:\Marco\Cursos\C#\Parenteses\bin\Debug\netcoreapp2.1\Parenteses.runtimeconfig.json
+D:\Marco\Cursos\C#\Parenteses\bin\Debug\netcoreapp2.1\Parenteses.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\Parenteses\bin\Debug\netcoreapp2.1\Parenteses.dll
+D:\Marco\Cursos\C#\Parenteses\bin\Debug\netcoreapp2.1\Parenteses.pdb
+D:\Marco\Cursos\C#\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.AssemblyInfo.cs
+D:\Marco\Cursos\C#\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.dll
+D:\Marco\Cursos\C#\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.pdb
+D:\Marco\Cursos\C#\Parenteses\obj\Debug\netcoreapp2.1\Parenteses.genruntimeconfig.cache
